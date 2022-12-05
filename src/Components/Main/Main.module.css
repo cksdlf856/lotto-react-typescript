@@ -1,0 +1,13 @@
+.btn_ok{
+    cursor: pointer;
+}
+
+.div_1, .div_3{
+    text-align: center;
+    padding: 50px;
+}
+
+.div_2{
+    display: flex;
+    justify-content: center;
+}
